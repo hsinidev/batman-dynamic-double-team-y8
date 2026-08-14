@@ -1,17 +1,21 @@
 <div align="center">
-# 🚀 Batman Dynamic Double Team Y8
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Batman%20Dynamic%20Double%20Te&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Batman Dynamic Double Team Y8 Header Banner" />
+
+  <h1>🚀 Batman Dynamic Double Team Y8</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/batman-dynamic-double-team-y8"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Batman Dynamic Double Team Y8** delivers a fast, responsive, and cross-platform browser experience built with **Universal** and hardware-accelerated canvas rendering.
@@ -24,6 +28,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `Universal`
@@ -31,79 +36,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Batman Dynamic Double Team Y8 - Play Online for Free
-
-## Overview
-Play Batman Dynamic Double Team Y8 online for free. Unblocked and available on all devices. Experience the best Batman Dynamic Double Team Y8 gameplay now!
-
-### Game Details & Guide
-Getting Started with Batman Dynamic Double Team Y8
-
-
-
-What is it?
-
-Batman Dynamic Double Team is a browser-based action game developed by Eternity. It's an open-world, side-scrolling beat-em-up that pits the Dark Knight against his enemies in a thrilling battle of wits and strength.
-
-
-How to Play
-
-To play Batman Dynamic Double Team, you'll need to follow these steps:
-• Open your web browser and navigate to [www.y8.com](http://www.y8.com) and search for "Batman Dynamic Double Team".
-• Once the game is found, click on it to load the game page.
-• The game will display a brief introduction to the story and characters.
-• To play, use the arrow keys or WASD keys to move Batman around the screen, and use the space bar to jump. You can also use the 'd' and 'f' keys to dodge attacks.
-
-
-Controls
-
-• Move Batman: Arrow keys (left and right) or WASD keys
-• Jump: Space bar
-• Dodge: 'd' key
-• Attack: 'f' key
-
-
-Tips and Tricks for Success
-
-Here are some tips to help you succeed in the game:
-• Keep moving: Don't stay still for too long, as this will make Batman vulnerable to attacks.
-• Learn the patterns of your enemies: Observe how they move and attack, and adjust your strategy accordingly.
-• Use your environment: Take advantage of the surroundings to evade or distract your enemies.
-• Upgrade your skills: As you progress through the game, upgrade Batman's skills to increase his chances of success.
-
-
-Why You Should Play It
-
-Batman Dynamic Double Team is an engaging and challenging game that offers:
-• High replay value: With multiple difficulty levels and hidden secrets, there's always something new to discover.
-• Immersive storyline: The game's story is full of twists and turns, keeping you engaged and invested in the Dark Knight's quest.
-• Relaxing gameplay: Despite its intensity, the game is easy on the eyes and requires minimal effort, making it a great choice for players who want to unwind.
-
-
-Conclusion
-
-
-By following these tips and tricks, you'll be well on your way to becoming a Batman Dynamic Double Team master. With its engaging gameplay, immersive storyline, and high replay value, this game is sure to keep you entertained for hours on end. So why not give it a try?
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
